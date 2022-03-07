@@ -2,7 +2,7 @@
 
 Today I Learned.
 
-A (mostly daily) collection of notes about things I've learned.
+A (mostly daily) collection of notes about my hobbies, that I've learned.
 
 ## table of contents
 
